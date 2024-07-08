@@ -18,7 +18,7 @@ TOOLS
 
 -> Object detection Utilities- Specific utilities for object detection from the TensorFlow Object Detection API.
 
-These modules and tools are essential for setting up the environment, downloading and using pretrained models, processing images and videos, and visualizing the results.
+These modules and tools were essential for setting up the environment, downloading and using pretrained models, processing images and videos, and visualizing the results.
 
 
 
