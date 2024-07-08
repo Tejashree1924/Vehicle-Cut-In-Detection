@@ -4,11 +4,17 @@ This repository contains a project focused on detecting vehicle cut-ins using ma
 
 TOOLS 
 -> Numpy- Numerical operations and handling arrays
+
 -> Urllib- Used for downloading the pretrained model
+
 -> TensorFlow- Used for building and running the machine learning model
+
 -> Pillow- Used for image processing
+
 -> Grabscreen- Custom module for screen capturing
+
 -> OpenCV- Used for real time computer vision and video processing
+
 -> Object detection Utilities- Specific utilities for object detection from the TensorFlow Object Detection API.
 
 These modules and tools are essential for setting up the environment, downloading and using pretrained models, processing images and videos, and visualizing the results.
