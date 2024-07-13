@@ -4,19 +4,21 @@ This repository contains a project focused on detecting vehicle cut-ins using ma
 
 TOOLS 
 
--> Numpy- Numerical operations and handling arrays
+Python: Primary programming language for its extensive libraries.
 
--> Urllib- Used for downloading the pretrained model
+PyTorch: Deep learning framework for building and training neural networks.
 
--> TensorFlow- Used for building and running the machine learning model
+YOLOv5: Real-time object detection model for vehicle detection.
 
--> Pillow- Used for image processing
+OpenCV: Computer vision library for video capture, frame processing, and writing output files.
 
--> Grabscreen- Custom module for screen capturing
+NumPy: Library for numerical operations and distance calculations.
 
--> OpenCV- Used for real time computer vision and video processing
+PyCharm: Integrated Development Environment (IDE) for efficient Python development.
 
--> Object detection Utilities- Specific utilities for object detection from the TensorFlow Object Detection API.
+cv2.VideoCapture: Captures video from files, sequences, or cameras.
+
+cv2.VideoWriter: Writes processed video frames to a new video file.
 
 These modules and tools were essential for setting up the environment, downloading and using pretrained models, processing images and videos, and visualizing the results.
 
@@ -36,6 +38,8 @@ Integration and Deployment
 Designed the system to be easily adaptable for different types of vehicles and environments by retraining the model with custom datasets.
 Ensured that the solution can be scaled to handle different video resolutions and frame rates without significant loss of performance.
 
+
+The project leverages a combination of advanced machine learning models, robust computer vision libraries, and efficient data processing tools. The integration of these technologies ensures accurate vehicle detection, reliable tracking, and timely warning generation, making the system suitable for real-time applications such as advanced driver-assistance systems (ADAS) and autonomous driving technologies. The use of Python, PyTorch, YOLOv5, and OpenCV provides a powerful and flexible foundation for developing and enhancing vehicle detection and tracking systems.
 
 
 
